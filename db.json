@@ -1,0 +1,6 @@
+{
+  "cart" : {
+    { "id" : 1, "title" : "Mini Service", "price" : 2299 },
+    { "id" : 2, "title" : "Standard Service", "price" : 1999 }
+  }
+}
