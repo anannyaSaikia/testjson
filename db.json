@@ -1,10 +1,9 @@
 {
-  "cart" : {
-  },
-  "products" : {
+  "cart" : [],
+  "products" : [
     { "id" : 1, "title" : "Mini Service", "price" : 2299 },
     { "id" : 2, "title" : "Medium Services", "price" : 2299 },
     { "id" : 3, "title" : "Major Services", "price" : 4799 },
     { "id" : 4, "title" : "Standard Service", "price" : 1999 }
-  }
+  ],
 }
