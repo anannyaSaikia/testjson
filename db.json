@@ -2,7 +2,7 @@
     "orders" : [
         {
             "id" : 1,
-            "image" : "./Images/AvocadoHass.jpg",
+            "image" : "https://drive.google.com/file/d/17wMahGnqw9yQx4NBi9BEFHjlqRUmv4ZV/view?usp=drive_link",
             "name" : "Lorem ipsum",
             "brand" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 60,
@@ -12,7 +12,7 @@
         },
         {
             "id" : 2,
-            "image" : "./Images/AvocadoHass.jpg",
+            "image" : "https://drive.google.com/file/d/17wMahGnqw9yQx4NBi9BEFHjlqRUmv4ZV/view?usp=drive_link",
             "name" : "Lorem ipsum",
             "brand" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 60,
