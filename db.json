@@ -22,7 +22,7 @@
         },
         {
             "id" : 3,
-            "image" : "./Images/AvocadoHass.jpg",
+            "image" : "https://drive.google.com/file/d/17wMahGnqw9yQx4NBi9BEFHjlqRUmv4ZV/view?usp=drive_link",
             "name" : "Lorem ipsum",
             "brand" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 60,
@@ -32,7 +32,7 @@
         },
         {
             "id" : 4,
-            "image" : "./Images/AvocadoHass.jpg",
+            "image" : "https://drive.google.com/file/d/17wMahGnqw9yQx4NBi9BEFHjlqRUmv4ZV/view?usp=drive_link",
             "name" : "Lorem ipsum",
             "brand" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 60,
@@ -42,7 +42,7 @@
         },
         {
             "id" : 5,
-            "image" : "./Images/AvocadoHass.jpg",
+            "image" : "https://drive.google.com/file/d/17wMahGnqw9yQx4NBi9BEFHjlqRUmv4ZV/view?usp=drive_link",
             "name" : "Lorem ipsum",
             "brand" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 60,
